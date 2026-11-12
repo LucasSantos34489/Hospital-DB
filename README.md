@@ -252,7 +252,7 @@ Resultado da consulta 10
 
 Projeto acadêmico de Banco de Dados.
 
-Autor: [Seu nome]
+Autor: Lucas Vieira Santos
 
 📚 Objetivo Educacional
 
